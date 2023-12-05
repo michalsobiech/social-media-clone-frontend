@@ -1,3 +1,5 @@
+[Go to the SMC backend repo](https://github.com/michalsobiech/social-media-clone-frontend)
+
 # Social media clone (Frontend)
 
 A **Social media clone** is a MERN stack web application.
